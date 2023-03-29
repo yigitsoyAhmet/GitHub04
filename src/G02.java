@@ -7,6 +7,9 @@ public class G02 {
         //-already origin
         //  -git remote set-url repoUrlAdresi
         //-git push
+
+        System.out.println("İslem ekleyelim");
+
     }
 
 }
